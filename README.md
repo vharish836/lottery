@@ -1,0 +1,2 @@
+# lottery
+sample cdt project
